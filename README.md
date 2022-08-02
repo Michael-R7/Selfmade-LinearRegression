@@ -1,1 +1,1 @@
-# Selfmade-LinearRegression
+To understand how Linear Regression algorithm works I have created my own CustomLinearRegression class, using only math and basic knowledge of numpy, pandas and scikit-learn. I have compared my Regression's intercept, model coefficients, r2 and rmse metrics to the ones I got using skikit-learn built-in LinearRegression. Models were trained and tested  on scikit-learn built-in Boston house prices dataset.
